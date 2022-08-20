@@ -1,0 +1,50 @@
+.add-form{
+    margin: auto;
+    border: 1px solid black;
+    width: 50%;
+    padding: 10px ;
+    display: block;
+    border-radius: 10px;
+    background-color: yellow;
+   
+}
+
+label{
+    display: block;
+}
+
+input{
+    margin-bottom: 10px;
+    width: 95%;
+    height: 35px;
+}
+
+.userSelected{
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+    width: 95%;
+    height: 35px;
+}
+
+button{
+    margin-right: 10px;
+    width: 40%;
+    border-radius: 5px;
+    height: 30px;
+
+}
+
+.cancelbtn{
+    background-color: red;
+    border-color: red;
+    font-size: larger;
+    color: white;
+}
+
+.addbtn{
+    background-color: green;
+    border-color: green;
+    font-size: larger;
+    color:white;
+}
+
